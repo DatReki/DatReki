@@ -3,20 +3,20 @@ More commonly known as Timo Halofan I'm a tech enthousiast that started coding i
 
 ## Knowledge
 C# (main language)
-| Name          | Status            |
-| ------------- | ----------------- |
-| ASP.NET       | Decent knowledge  |
-| WPF           | Beginner          |
+| **Name**          | **Status**        |
+| ----------------- | ----------------- |
+| **ASP.NET**       | Decent knowledge  |
+| **WPF**           | Beginner          |
 
 HTML/css
-| Name          | Status            |
-| ------------- | ----------------- |
-| Bootstrap     | Beginner          |
+| **Name**          | **Status**        |
+| ----------------- | ----------------- |
+| **Bootstrap**     | Beginner          |
 
 JS (beginner)
-| Name          | Status            |
-| ------------- | ----------------- |
-| EJS           | Beginner          |
+| **Name**          | **Status**        |
+| ----------------- | ----------------- |
+| **EJS**           | Beginner          |
 
 PHP (decent knowledge),
 Java (beginner),
