@@ -23,7 +23,7 @@ Java (beginner),
 Python (very basic knowledge/learning).
 
 ![my Github Stats](https://github-readme-stats.vercel.app/api?username=DatReki&count_private=true&show_icons=true&theme=dracula) [![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DatReki&layout=compact&show_icons=true&theme=dracula)](https://github.com/DatReki)
-[![DatReki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TimoHalofan)](https://github.com/DatReki)
+[![DatReki's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TimoHalofan&show_icons=true&theme=dracula)](https://wakatime.com/@TimoHalofan)
 
 ## More About me
 I'm an all around tech enthousiast and am currently trying to learn as many different branches that fall under IT. Have done IT support already and have great hardware and software knowledge. Currently trying to get more knowledgable about programming and then I also plan to learn some networking and server mangement. If you want to learn even more about me [please go visit my website](https://timohalofan.de)
