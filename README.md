@@ -18,9 +18,9 @@ JS (beginner)
 | ------------- | ----------------- |
 | EJS           | Beginner          |
 
-PHP (decent knowledge)
-Java (beginner)
-Python (very basic knowledge/learning)
+PHP (decent knowledge),
+Java (beginner),
+Python (very basic knowledge/learning).
 
 ## More About me
 I'm an all around tech enthousiast and am currently trying to learn as many different branches that fall under IT. Have done IT support already and have great hardware and software knowledge. Currently trying to get more knowledgable about programming and then I also plan to learn some networking and server mangement. If you want to learn even more about me [please go visit my website](https://timohalofan.de)
