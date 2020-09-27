@@ -8,7 +8,7 @@ C# (main language)
 | **ASP.NET**       | Decent knowledge  |
 | **WPF**           | Beginner          |
 
-HTML/css
+HTML/CSS (good knowledge)
 | **Name**          | **Status**        |
 | ----------------- | ----------------- |
 | **Bootstrap**     | Beginner          |
