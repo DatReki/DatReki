@@ -42,6 +42,9 @@ Frameworks
     <a href="https://nuxt.com/">
         <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82">
     </a>
+    <a href="https://vuejs.org/">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
+    </a>
     <a href="https://react.dev/a">
         <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     </a>
